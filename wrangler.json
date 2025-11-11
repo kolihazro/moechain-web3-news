@@ -9,11 +9,11 @@
   "kv_namespaces": [
     {
       "binding": "MOECHAIN_WEB3_NEWS_KV",
-      "id": ""
+      "id": "74be1958620c4e49aec63f1d3b937067"
     }
   ],
   "vars": {
-    "MOEPUSH_URL": "",
+    "MOEPUSH_URL": "https://moepush.app/api/push/3v6LnzfDt0Er1hoL",
     "LOG_LEVEL": "info"
   }
 } 
